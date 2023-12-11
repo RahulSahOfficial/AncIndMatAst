@@ -9,7 +9,14 @@
 - [x] 5. Solar Eclipse Calculator (Improved Siddhantic Procedure)
 - [x] 6. Lunar Eclipse Calculator (Improved Siddhantic Procedure)
 ---
+### Module Link
+Python Module for Ancient Indian Mathematics and Astronomy
+[AncIndMatAst](https://pypi.org/project/AncIndMatAst/)
 
+### Installation
+```
+pip install AncIndMatAst
+```
 ### Aryabhata Cryptographic Calculator
 ![Aryabhata](images/Aryabhata.png)
 ##### Shlok
